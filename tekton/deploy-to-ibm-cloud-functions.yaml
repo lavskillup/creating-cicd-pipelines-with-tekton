@@ -9,7 +9,7 @@ spec:
       default: manifest.yaml
     - name: ibm-cloud-region
       description: Region where cluster is located
-      default: us-south
+      default: eu-gb
     - name: api-url
       description: API URL for interacting with IBM Cloud
       default: cloud.ibm.com
